@@ -56,7 +56,8 @@
             android:layout_height="wrap_content"
             android:text="Radio 1"
             android:textColor="#000000"
-            android:textSize="14sp"/>
+            android:textSize="14sp"
+            android:checked="true"/>
 
         <RadioButton
             android:id="@+id/radioButton2"
